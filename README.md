@@ -46,10 +46,9 @@ J’aime créer des applications intuitives, performantes et bien structurées, 
 
 ## 📫 Me contacter
 
-- ✉️ Email : bienvenu@example.com *(à remplacer par ton vrai mail)*
-- 🌐 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com)
+- ✉️ Email : bilok456@gmail.com
+- 🌐 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/bienvenu-lokonon-668b47329/)
 - 🌍 Portfolio : [Lien vers mon site](https://www.ton-site.com)
-
 ---
 
 Merci de visiter mon profil ! 😊  
