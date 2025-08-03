@@ -45,7 +45,7 @@ J’aime créer des applications intuitives, performantes et bien structurées, 
 ---
 
 ## 📫 Me contacter
-
+- 📱 WhatsApp : [+229 52258442](https://wa.me/22952258442)
 - ✉️ Email : bilok456@gmail.com
 - 🌐 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/bienvenu-lokonon-668b47329/)
 - 🌍 Portfolio : [Lien vers mon site](https://www.ton-site.com)
