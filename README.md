@@ -1,6 +1,6 @@
 <!-- Logo en haut à gauche -->
 <p align="center">
-  <img src="assets/BilokDev.svg" alt="Logo Bienvenu" width="100"/>
+  <img src="logo/bilok.svg" alt="Logo Bienvenu" width="100"/>
 </p>
 
 # 👋 Bienvenue sur mon profil GitHub
