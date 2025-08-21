@@ -1,3 +1,8 @@
+<!-- Logo en haut à gauche -->
+<p align="center">
+  <img src="assets/BilokDev.svg" alt="Logo Bienvenu" width="100"/>
+</p>
+
 # 👋 Bienvenue sur mon profil GitHub
 
 Je suis **Bienvenu Lokonon**, développeur **full-stack** passionné par le **web**, le **mobile** et les **technologies modernes**.  
@@ -48,8 +53,9 @@ J’aime créer des applications intuitives, performantes et bien structurées, 
 - 📱 WhatsApp : [+229 52258442](https://wa.me/22952258442)
 - ✉️ Email : bilok456@gmail.com
 - 🌐 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/bienvenu-lokonon-668b47329/)
--  📍 Adresse : Bénin, Cotonou – Abomey-Calavi  
+- 📍 Adresse : Bénin, Cotonou – Abomey-Calavi  
 - 🌍 Portfolio : [Lien vers mon site](https://www.ton-site.com)
+
 ---
 
 Merci de visiter mon profil ! 😊  
